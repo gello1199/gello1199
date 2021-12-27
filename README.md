@@ -4,7 +4,12 @@
 ### I am continuously learning and fine tuning my knowledge of both frontend and backend programming languages. Being methodical, detail-oriented and communicative in my approach, I strive to produce clean, DRY code, as well as a pleasant user experience. 
 
 # Languages and Tools 
-
+- Ruby
+- Ruby on Rails
+- JavaScript
+- React
+- Redux
+- React Router
 
 # Github Stats
 [![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gello1199)](https://github.com/gello1199/github-readme-stats)
