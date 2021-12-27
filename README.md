@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello! My name is Angelo Tsaganeas :wave: 
+## I am a Full Stack Software Engineer
+
+### I am continuously learning and fine tuning my knowledge of both frontend and backend programming languages. Being methodical, detail-oriented and communicative in my approach, I strive to produce clean, DRY code, as well as a pleasant user experience. 
+
+# Languages and Tools 
+
+
 
 <!--
 **gello1199/gello1199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
