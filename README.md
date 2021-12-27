@@ -6,6 +6,8 @@
 # Languages and Tools 
 
 
+# Github Stats
+[![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gello1199)](https://github.com/gello1199/github-readme-stats)
 
 <!--
 **gello1199/gello1199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
