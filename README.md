@@ -30,9 +30,9 @@
 [![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gello1199)](https://github.com/gello1199/github-readme-stats)
 
 # :e-mail: How to reach me:
-email: a.tsaganeas@gmail.com
-LinkedIn: https://www.linkedin.com/in/angelo-tsaganeas/
-Blog: https://angelo-t.medium.com/
+- Email: a.tsaganeas@gmail.com
+- LinkedIn: https://www.linkedin.com/in/angelo-tsaganeas/
+- Blog: https://angelo-t.medium.com/
 
 <!--
 **gello1199/gello1199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
