@@ -21,10 +21,12 @@
 - Visual Studio Code
 
 # 🌱 I’m currently learning:
-- React Hooks
+- React Hooks and a deeper understanding of React
+- Redux and Thunk middleware
 
 # 🔭 I’m currently working on:
 - Adding features to past projects
+- Creating new apps from Udemy React/Redux class
 
 # :chart_with_upwards_trend: Github Stats:
 [![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gello1199)](https://github.com/gello1199/github-readme-stats)
